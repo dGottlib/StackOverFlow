@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework54_StackOverFlow.Data", "Homework54_StackOverFlow.Data\Homework54_StackOverFlow.Data.csproj", "{BAC795F0-E7F3-4027-8E20-7AC65AFC46B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework54_StackOverFlow.Web", "Homework54_StackOverFlow.Web\Homework54_StackOverFlow.Web.csproj", "{CAFBA0F0-AF57-4C28-9E9A-7532451F5188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC795F0-E7F3-4027-8E20-7AC65AFC46B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC795F0-E7F3-4027-8E20-7AC65AFC46B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC795F0-E7F3-4027-8E20-7AC65AFC46B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC795F0-E7F3-4027-8E20-7AC65AFC46B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFBA0F0-AF57-4C28-9E9A-7532451F5188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFBA0F0-AF57-4C28-9E9A-7532451F5188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFBA0F0-AF57-4C28-9E9A-7532451F5188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFBA0F0-AF57-4C28-9E9A-7532451F5188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57458476-C9FA-4C08-95EA-65287D41B416}
+	EndGlobalSection
+EndGlobal
